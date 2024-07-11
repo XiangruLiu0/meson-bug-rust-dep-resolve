@@ -1,0 +1,10 @@
+{
+    "C_Cpp.default.configurationProvider": "mesonbuild.mesonbuild",
+    "files.associations": {
+        "*.json": "jsonc",
+        "*.es": "es",
+        "*.mdx": "markdown",
+        "stdio.h": "c",
+        "lib.h": "c"
+    }
+}
